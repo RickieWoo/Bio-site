@@ -76,6 +76,13 @@ input:-ms-input-placeholder {
 	vertical-align: middle;
 	width: 100%;
 }
+
+.login-text,
+.m-login {
+	margin: 0 auto;
+	padding: 20px 0;
+	width: 300px;
+}
 .m-bottom-bar {
 	color: white;
 	font-size: 14px;
@@ -123,12 +130,10 @@ input:-ms-input-placeholder {
 	width: 100%;
 	height: 100%;
 }
+
 .m-login {
 	border-top: solid #2E6A95;
 	border-radius: 0;
-	margin: 0 auto;
-	padding: 20px 0;
-	width: 300px;
 }
 .m-txt {
 	margin: 0 auto;
