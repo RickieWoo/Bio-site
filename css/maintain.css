@@ -125,7 +125,7 @@ input:-ms-input-placeholder {
 }
 .m-img {
 	overflow: auto;
-	background-image: url('../img/img.jpg') ;
+	background-image: url(http://life.hust.edu.cn:8181/u/cms/www/201611/01142031ikh1.jpg) ;
 	background-size: 100%;
 	width: 100%;
 	height: 100%;
